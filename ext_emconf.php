@@ -3,7 +3,7 @@
 /***************************************************************
  * Extension Manager/Repository config file for ext "fal_local_xt".
  *
- * Auto generated 24-08-2014 09:56
+ * Auto generated 07-09-2014 11:31
  *
  * Manual updates:
  * Only the data in the array - everything else is removed by next
@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array (
 	'description' => 'Provides an extended local driver for the TYPO3 File Abstraction Layer (FAL) with the possibility to use a different public URL.',
 	'category' => 'plugin',
 	'shy' => 0,
-	'version' => '0.0.0',
+	'version' => '1.1.0',
 	'dependencies' => 'cms,version',
 	'conflicts' => '',
 	'priority' => '',
