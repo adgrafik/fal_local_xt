@@ -1,7 +1,7 @@
 <?php
 
 /***************************************************************
- * Extension Manager/Repository config file for ext "fal_ftp".
+ * Extension Manager/Repository config file for ext "fal_local_xt".
  *
  * Auto generated 24-08-2014 09:56
  *
